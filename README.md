@@ -3,13 +3,13 @@ Ce répertoire est la socle de base de tous mes projets web.
 
 ## Fonctionnement
 Pour utiliser cet environement, télécharger le fichier compresser et ouvrez-le dans votre IDEE.  
-A l'aide de la commande 
+A l'aide de la commande ci-après dans le terminal de votre éditeur de texte (vscode par exemple)
 ```
   pnpm install, toutes les dépendances de base du projet seront téléchargées.
 ```
 
 ## Composition & dépendances
-De base, l'environnement de travail est **VITEJs (avec la librairie ReactJs).  
+De base, l'environnement de travail est **VITEJs (avec la librairie ReactJs)**.  
 les dépendances du projet sont :
 - Tailwindcss (avec en extension daisyUI)
 - React-router-dom
